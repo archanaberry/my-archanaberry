@@ -1,10 +1,6 @@
 # my-archanaberry
 
-A chibi-style virtual pet game with animated vector graphics and multiple mini-games, inspired by popular pet simulation apps.
-
----
-
-Below is an example of a `README.md` in English you can use for your repository named **MyArchanaBerry** (or **my-archanaberry**):
+An Archana Berry (myself) chibi-style virtual pet game with animated vector graphics and multiple mini-games, I am blueberry lowbush chan btw (⁠≧⁠▽⁠≦⁠).  
 
 ---
 

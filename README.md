@@ -1,6 +1,6 @@
 # my-archanaberry
 
-An Archana Berry (myself) chibi-style virtual pet game with animated vector graphics and multiple mini-games, I am blueberry lowbush chan btw (⁠≧⁠▽⁠≦⁠).  
+An Archana Berry (myself) chibi-doll-style virtual pet game with animated vector graphics and multiple mini-games, I am blueberry lowbush chan btw (⁠≧⁠▽⁠≦⁠).  
 
 ---
 

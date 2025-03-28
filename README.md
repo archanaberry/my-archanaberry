@@ -48,5 +48,4 @@ Feel free to submit issues, fork the repository, and open pull requests. All con
 
 ## License
 
-This project can be released under a license of your choice. If you don’t have a specific license in mind, you may consider an open-source license like [ABPL](https://github.com/archanaberry/license.md). Just update this section with the chosen license details.
-j
+This project can be released under a license of your choice. If you don’t have a specific license in mind, you may consider an open-source license like [ABPL](https://github.com/archanaberry/license). Just update this section with the chosen license details.
